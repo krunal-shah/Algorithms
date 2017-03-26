@@ -29,4 +29,5 @@ int main(int argv, char* args[])
 	cin >> n;
 	bool arr[n];
 	find_primes(arr, n);
+	
 }
